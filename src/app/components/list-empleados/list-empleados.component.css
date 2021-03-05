@@ -1,0 +1,11 @@
+.btn-float-right {
+  float: right;
+}
+
+.mr-2 {
+  margin-right: 2px;
+}
+
+i {
+  cursor: pointer;
+}
